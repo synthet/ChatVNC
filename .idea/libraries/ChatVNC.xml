@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ChatVNC">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ChatVNC.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -52,9 +52,7 @@ public class ChatVNCView extends FrameView {
         jTable1.setRowSorter(tableSorter);
         jTable1.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
         jMenuItem2.setText("Подключиться");
-        //jLabel1.setText("Поиск юзера:");
-        //jButton1.setText("Подключиться");
-        //jCheckBox1.setText("ViewOnly");
+
         jCheckBox1.setSelected(true);
         updateTable();
         jTable1.setComponentPopupMenu(jPopupMenu1);

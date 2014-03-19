@@ -409,7 +409,7 @@ public class ChatVNCView extends FrameView {
     }// </editor-fold>//GEN-END:initComponents
 
 private void jTextField1CaretUpdate(javax.swing.event.CaretEvent evt) {//GEN-FIRST:event_jTextField1CaretUpdate
-// TODO add your handling code here:
+
     filterTable();
 }//GEN-LAST:event_jTextField1CaretUpdate
     // Variables declaration - do not modify//GEN-BEGIN:variables
